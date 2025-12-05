@@ -132,7 +132,7 @@ npm i -g vercel && vercel --prod
 ## 📄 License
 MIT - Free for any use.
 
----
+---  
 
 **✅ Assignment Complete | Dec 5, 2025**  
 **🎉 Ready for Round 3 Interview!**
